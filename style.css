@@ -1,25 +1,26 @@
 body{
-    background-image: url('download.jpg');
+    background-image: url('wall.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
-.container > h1 {
-    color: dodgerblue;
-}
-div{
-    padding-top: 20px;
-}
-#brr >.table{
-  padding-top: 20px;
-  float: right;
-  width: 40px;
-}
-#foo > p,ol{
-    color: beige;
-    padding-top: 170px;
-    padding-bottom: 20px;
-    float: right;
-    font-size: 60px;
 
+h1{
+    color:skyblue;
+    font-family: cursive;
+    text-align: center;
+}
+.table{
+    width: 80px;
+    margin-top: 20px;
+    float: right;
+}
+
+#foo > .tabl {
+    width: max-content;
+    margin-top: 40px;
+    margin-left: 970px;
+    margin-bottom: 40px;
+    margin-right: 10px;
+    text-align: center;
 }
