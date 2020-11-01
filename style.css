@@ -1,9 +1,24 @@
 body{
     background-image: url('download.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .container > h1 {
     color: dodgerblue;
 }
 div{
     padding-top: 20px;
+}
+#brr >.table{
+  padding-top: 20px;
+  float: right;
+  width: 40px;
+}
+#foo > p,ol{
+    color: beige;
+    padding-top: 170px;
+    padding-bottom: 20px;
+    float: right;
+
 }
